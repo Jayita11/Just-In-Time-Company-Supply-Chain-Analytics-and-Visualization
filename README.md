@@ -54,7 +54,7 @@ This project utilizes a dataset consisting of three CSV files: **fulfillment.csv
 
 The metadata is mentioned below
 
-![Screenshot 2024-09-28 at 2 10 04 AM](https://github.com/user-attachments/assets/0dbe0908-0549-4ddc-aa7e-7a452bed1c0d)
+![Screenshot 2024-09-28 at 2 18 37 AM](https://github.com/user-attachments/assets/cb9a02da-7372-40b7-a79d-fd4cfc01ee22)
 
 
 The Entity Relationship Diagram(ERD) for the data is mentioned below
