@@ -8,9 +8,9 @@ Here the Tableau dashboard is explained in detail, and the SQL business question
 ![Business Overview](https://github.com/user-attachments/assets/75977b92-ea26-431d-a0e2-96a81b5afda8)
 
 
-The USA contributes the most to profit generation, accounting for **61.49%**, while **Puerto Rico** generates **38.51%**. This suggests that although Puerto Rico is performing well, the USA remains the dominant contributor to profit margins, likely due to larger order volumes or higher efficiency in the supply chain.
+-- The USA contributes the most to profit generation, accounting for **61.49%**, while **Puerto Rico** generates **38.51%**. This suggests that although Puerto Rico is performing well, the USA remains the dominant contributor to profit margins, likely due to larger order volumes or higher efficiency in the supply chain.
 
-**Cleats** lead in inventory cost at **$18.52K**, followed by **Women's Apparel** at **$14.41K**. This suggests that the Cleats and Women's Apparel categories require significant investment in inventory, and careful management of stock levels in these categories is critical to minimize holding costs and optimize profit margins.
+-- **Cleats** lead in inventory cost at **$18.52K**, followed by **Women's Apparel** at **$14.41K**. This suggests that the Cleats and Women's Apparel categories require significant investment in inventory, and careful management of stock levels in these categories is critical to minimize holding costs and optimize profit margins.
 
 Products such as **O’Brien Men's** and **Pelican Sunstream** are the most profitable, with several other goods closely following. This emphasizes that a few key products drive profitability, and focusing on these top-selling items can help maintain overall profitability while possibly expanding the marketing of similar products.
 
