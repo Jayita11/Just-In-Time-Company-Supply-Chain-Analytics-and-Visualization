@@ -36,6 +36,30 @@ In today's competitive business environment, maintaining operational efficiency 
    Use data analytics to gain deeper insights into customer behavior and purchasing trends. This will enable more targeted marketing efforts, better inventory planning, and a more personalized customer experience.
 
 
+# Just In Time Supply Chain Analytics Project
+
+An **interactive Tableau dashboard** accompanies this project to provide a dynamic and visual exploration of the key findings. This dashboard allows users to visualize and analyze various performance metrics and trends within the supply chain. The dashboard can be found **here**: [Tableau Dashboard](#).
+
+### Python Workflow
+
+Python was utilized for **data cleaning**, **data wrangling**, **feature engineering**, and **data manipulation**. The detailed Python script used for these processes can be found **here**: [Python Script](#). This script ensures the data is properly structured and optimized for analysis, enabling insightful exploration of the supply chain challenges.
+
+### SQL Queries
+
+The **SQL queries** addressing various **business questions** are available and can be found **here**: [SQL Queries](#). These queries dive into areas like shipment delays, inventory management, and supply-demand imbalances, providing a deeper understanding of the business problems and potential solutions.
+
+### Project Impact
+
+By harnessing this data, **businesses can address key operational challenges**, optimize performance, and improve overall profitability. The insights gained from this project offer actionable recommendations to enhance supply chain efficiency, streamline inventory management, and reduce shipment delays.
+
+---
+
+> This project aims to provide a comprehensive solution for **Just In Time Company**, focusing on improving operational efficiency through data-driven insights.
+
+
+---
+
+> This project aims to provide a comprehensive solution for **Just In Time Company**, focusing on improving operational efficiency through data-driven insights.
 
 
 ## Executive Summary
