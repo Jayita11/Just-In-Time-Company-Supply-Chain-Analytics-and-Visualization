@@ -48,7 +48,10 @@ The **SQL queries** addressing various **business questions** are available and 
 By harnessing this data, **businesses can address key operational challenges**, optimize performance, and improve overall profitability. The insights gained from this project offer actionable recommendations to enhance supply chain efficiency, streamline inventory management, and reduce shipment delays.
 
 ---
+## Dataset
 
+This project utilizes a dataset consisting of three CSV files: **fulfillment.csv**, **inventory.csv**, and **orders_and_shipments.csv**. These files offer a comprehensive view of the supply chain process at **Just In Time Company**, covering shipment details, inventory levels, and order transactions. Together, these datasets enable a detailed analysis of key metrics such as order fulfillment times, storage costs, shipment delays, and overall inventory management.
+---
 ## Executive Summary
 Here the Tableau dashboard is explained in detail, and the SQL business question answers are thoroughly covered.
 
