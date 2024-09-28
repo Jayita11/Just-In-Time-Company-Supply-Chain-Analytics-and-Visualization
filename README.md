@@ -2,12 +2,10 @@
 
 ## Project Background
 
-In today's competitive business environment, maintaining operational efficiency within the supply chain is crucial for long-term success. **Just In Time**, a leading company in logistics and supply chain management, is facing several challenges that hinder its ability to meet customer demands and optimize profitability. Key issues such as shipment delays, inconsistent inventory management, and difficulties in balancing supply with demand are negatively impacting business operations. Addressing these problems through data-driven insights is critical to ensuring improved performance and maintaining the company's competitive edge.
+In today's competitive business environment, maintaining operational efficiency within the supply chain is crucial for long-term success.Just In Time, a leading company in the global logistics and supply chain industry, is facing several challenges that hinder its ability to meet customer demands and optimize profitability. Key issues such as shipment delays, inconsistent inventory management, and difficulties in balancing supply with demand are negatively impacting business operations. The company provides tailored solutions for managing shipments and inventory, using data from 2015 to 2017, and serves diverse markets with a wide array of products across different regions. Addressing these challenges through data-driven insights is critical to ensuring improved performance and maintaining a competitive edge. The overarching goal for Just In Time Company is to streamline operations, enhance inventory management, and minimize delays in product deliveries to better meet customer expectations.
 
 ![DALL·E 2024-09-28 00 20 12 - A flat design icon representing supply chain analytics using blue shades  The icon should include elements like a factory, a delivery truck, a warehou](https://github.com/user-attachments/assets/13ad2d07-3975-4d56-8100-2b2e0967ab11)
 
-
-**Just In Time Company** is a prominent player in the global supply chain and logistics industry, providing tailored solutions for managing shipments and inventory using data from 2015 to 2017. The company serves diverse markets, offering a wide array of products that span different regions. The overarching goal is to streamline operations, improve inventory management, and minimize delays in product deliveries.
 
 ## Business Problems
 
