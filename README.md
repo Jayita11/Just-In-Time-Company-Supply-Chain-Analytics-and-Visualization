@@ -51,6 +51,7 @@ By harnessing this data, **businesses can address key operational challenges**, 
 ## Dataset
 
 This project utilizes a dataset consisting of three CSV files: **fulfillment.csv**, **inventory.csv**, and **orders_and_shipments.csv**. These files offer a comprehensive view of the supply chain process at **Just In Time Company**, covering shipment details, inventory levels, and order transactions. Together, these datasets enable a detailed analysis of key metrics such as order fulfillment times, storage costs, shipment delays, and overall inventory management.
+
 ---
 ## Executive Summary
 Here the Tableau dashboard is explained in detail, and the SQL business question answers are thoroughly covered.
@@ -72,7 +73,7 @@ Here the Tableau dashboard is explained in detail, and the SQL business question
 
 - **Profit by Product Department (Treemap):** The **Fun Shop** department dominates in profit generation, with **$3.64M**, followed by **Apparel** and **Golf**. This suggests that departments related to sports and leisure are performing best. A deeper analysis of why these departments are excelling could help replicate their success across other departments like Footwear, which generates comparatively lower profits.
 
----
+
 
 ### Shipment Management Dashboard
 
@@ -93,7 +94,7 @@ Here the Tableau dashboard is explained in detail, and the SQL business question
 
 - **Shipment Delay by Country (Map Visualization):** The map shows that certain countries, particularly in **Latin America** and **Africa**, experience higher shipment delays. The USA also has significant shipment delays, although to a lesser extent. Addressing logistical challenges in countries with higher delays through localized strategies or improved carrier partnerships could lead to a reduction in overall delays.
 
----
+
 
 ### Inventory Dashboard
 
@@ -114,7 +115,7 @@ Here the Tableau dashboard is explained in detail, and the SQL business question
 
 - **Inventory to Sales Delta (Bar Chart with Delta):** **Women's Apparel** and **Fishing** categories are experiencing the most severe understock issues, with significant negative deltas (**-180** and **-248**, respectively). On the other hand, **Cleats** show a positive delta of **169.6**, indicating overstock. Ensuring an optimal balance between inventory and sales for these categories will help maintain stock levels and minimize overstock or understock costs.
 
----
+
 
 ### Key Performance Indicators (KPIs)
 
@@ -137,7 +138,7 @@ Here the Tableau dashboard is explained in detail, and the SQL business question
 - **Average Inventory Cost per Unit**: Shows the average cost of holding one unit of inventory, aiming for low costs to reduce operating expenses.
 - **Total Warehouse Inventory**: The total quantity of inventory in stock, important for balancing supply and demand.
 
----
+
 
 ### Filters
 
@@ -275,6 +276,7 @@ These filters provide flexibility for users to customize the dashboard view base
 - Categories like Cardio Equipment and CDs show average delays of 117 and 94 days, respectively, which still reflects issues that need attention but are less severe than the top performers.
 - Golf Shoes and Golf Balls have the lowest average delay days in this list, with 70 and 65 days, respectively. These delays, while notable, may not be as critical compared to other categories.
 
+---
 ## Recommendations
 
 - **Optimize Product Inventory**: To improve profits and reduce storage costs, inventory optimization is crucial, particularly for high-demand and high-margin products. By studying seasonal demand patterns and adjusting stock levels accordingly, the company can avoid overstock during slow periods and prevent stockouts during peak times. Maintaining a reasonable buffer for popular products will enhance customer satisfaction while minimizing excess inventory expenses.
