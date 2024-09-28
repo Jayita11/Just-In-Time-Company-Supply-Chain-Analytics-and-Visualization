@@ -36,13 +36,13 @@ In today's competitive business environment, maintaining operational efficiency 
    Use data analytics to gain deeper insights into customer behavior and purchasing trends. This will enable more targeted marketing efforts, better inventory planning, and a more personalized customer experience.
 
 
-An interactive Tableau dashboard accompanies this project to provide a dynamic and visual exploration of the findings **here**: [Tableau Dashboard](#).
+An interactive Tableau dashboard accompanies this project to provide a dynamic and visual exploration of the findings **here**: [Tableau Dashboard](https://github.com/Jayita11/Just-In-Time-Company-Supply-Chain-Analytics-and-Visualization/tree/main/Tableau_Dashboard).
 
 
-Python was utilized for **data cleaning**, **data wrangling**, **feature engineering**, and **data manipulation**. The detailed Python script used for these processes can be found **here**: [Python Script](#). 
+Python was utilized for **data cleaning**, **data wrangling**, **feature engineering**, and **data manipulation**. The detailed Python script used for these processes can be found **here**: [Python Script](https://github.com/Jayita11/Just-In-Time-Company-Supply-Chain-Analytics-and-Visualization/tree/main/Python). 
 
 
-The **SQL queries** addressing various **business questions** are available and can be found **here**: [SQL Queries](#). 
+The **SQL queries** addressing various **business questions** are available and can be found **here**: [SQL Queries](https://github.com/Jayita11/Just-In-Time-Company-Supply-Chain-Analytics-and-Visualization/tree/main/SQL). 
 
 
 By harnessing this data, **businesses can address key operational challenges**, optimize performance, and improve overall profitability. The insights gained from this project offer actionable recommendations to enhance supply chain efficiency, streamline inventory management, and reduce shipment delays.
