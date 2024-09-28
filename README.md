@@ -52,6 +52,15 @@ By harnessing this data, **businesses can address key operational challenges**, 
 
 This project utilizes a dataset consisting of three CSV files: **fulfillment.csv**, **inventory.csv**, and **orders_and_shipments.csv**. These files offer a comprehensive view of the supply chain process at **Just In Time Company**, covering shipment details, inventory levels, and order transactions. Together, these datasets enable a detailed analysis of key metrics such as order fulfillment times, storage costs, shipment delays, and overall inventory management.
 
+The metadata is mentioned below
+
+![Screenshot 2024-09-28 at 2 10 04 AM](https://github.com/user-attachments/assets/0dbe0908-0549-4ddc-aa7e-7a452bed1c0d)
+
+
+The Entity Relationship Diagram(ERD) for the data is mentioned below
+
+![ERD_SCM](https://github.com/user-attachments/assets/d6dbf636-4dc6-4022-8d6e-fdb47680ac5a)
+
 ---
 ## Executive Summary
 Here the Tableau dashboard is explained in detail, and the SQL business question answers are thoroughly covered.
