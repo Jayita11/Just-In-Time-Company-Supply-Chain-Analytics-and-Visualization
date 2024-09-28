@@ -24,7 +24,9 @@ Here the Tableau dashboard is explained in detail, and the SQL business question
 
 ### Shipment Management Dashboard
 
-![Shipment Management](https://github.com/user-attachments/assets/3f77f641-e105-47b0-b51e-20c4f00c12f4)
+
+![Screenshot 2024-09-27 at 11 13 37 PM](https://github.com/user-attachments/assets/a0deaf10-5417-4b74-a2e2-94c2bed0ba9e)
+
 
 
 - **Shipment Status by Customer Market (Stacked Bar Chart):** **LATAM (Latin America)** and **Europe** have the highest number of shipments, with LATAM reaching **2,923 delayed** and **2,712 on-time deliveries**, followed by Europe with **2,507 delayed** and **2,712 on-time**. North America shows fewer shipments but a balanced distribution between delayed and on-time deliveries. This suggests focusing on improving shipment efficiency, particularly in high-volume regions like LATAM and Europe, where delays are prominent.
