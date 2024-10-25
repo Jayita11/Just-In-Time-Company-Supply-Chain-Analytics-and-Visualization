@@ -125,8 +125,6 @@ Here the Tableau dashboard is explained in detail, and the SQL business question
 
 
 
-### Key Performance Indicators (KPIs)
-
 ![Screenshot 2024-09-27 at 11 08 54 PM](https://github.com/user-attachments/assets/9b7efff4-07b8-4843-8e2b-75398d235228)
 
 ![Screenshot 2024-09-27 at 11 09 13 PM](https://github.com/user-attachments/assets/d1a10f4c-9168-419a-89d5-b686f8c99f2f)
